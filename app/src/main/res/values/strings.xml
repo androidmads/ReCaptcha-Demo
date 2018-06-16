@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReCaptcha</string>
+    <string name="btn_verify">Verify</string>
+    <string name="tv_verify">Click \"Verify\" Button</string>
+</resources>
